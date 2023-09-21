@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: Poppins,'sans-serif';
+}
+
+header nav .container a.title-navbar:hover{
+    color: #f29f05;
+}
+
+header nav form .btn{
+color: #F1EFEF;
+    background-color: #0d101c;
+    border-radius: 10px;
+}
+header nav form .btn:hover{
+    color: #F1EFEF;
+}
+
+
+/* Hero Section */
+.container .Hero-caption{
+    margin-top: 25%;
+}
+
+ .container .Hero-caption form .btn{
+    border:1px solid #0d101c;
+    border-radius: 10px;
+}
+.container .Hero-caption form .btn:hover{
+    color: #F1EFEF;
+    background-color: #0d101c;
+}
+
+ .container  .card-financial{
+    background-color: #ededee;
+    color: #0d101c;
+}
+ .container  .card-financial:hover{
+    background-color: #0d101c;
+    color: #F1EFEF;
+}
+
+.container  .card-financial i{
+    color: #0d101c;
+}
+/* .container  .card-financial i:hover{
+    color: #F1EFEF;
+} */
